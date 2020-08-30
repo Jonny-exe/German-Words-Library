@@ -1,3 +1,5 @@
+<img src="https://css.gg/album.svg" width="256">
+
 # German-Words-Library in JSON
 
 This is a collection of 2 German word lists. One 1.6 million words long. The other 5,000 words long.
