@@ -2,6 +2,8 @@
 
 This is a collection of 2 German word lists. One 1.6 million words long. The other 5,000 words long.
 
+Das ist eine Deutsche Wörter Sammlung in JSON Format.
+
 # Features
 - JSON format
 - original spelling including uppercase and lowercase
@@ -23,7 +25,6 @@ This is a collection of 2 German word lists. One 1.6 million words long. The oth
 "übersäten",
 "überzeugend",
 "üblicheres"]
-
 ```
 
 # Original source
