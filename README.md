@@ -66,3 +66,6 @@ getJSON('https://raw.githubusercontent.com/Jonny-exe/German-Words-Library/master
 ```
 
 # Enjoy 
+- Fork 
+- or use directly from Github (e.g. `https://raw.githubusercontent.com/Jonny-exe/German-Words-Library/master/German-words-5000-words.json`)
+- and if you like it or use it, please give me a :star: on Github
